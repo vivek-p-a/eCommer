@@ -1,0 +1,63 @@
+li img {
+    height: 25px;
+}
+img.d-block.w-100{
+    padding: 51px;
+}
+nav {
+    font-family: 'Montserrat', sans-serif;
+}
+.carousel-item img{
+    max-width: 100% !important;
+    height:700px;
+    margin: 0 auto;
+}
+
+a.navbar-brand {
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+.center-card{
+    margin:auto;
+    text-align: center;
+}
+
+html,
+body {
+    background-color:hsl(187, 100%, 50%);
+    font-family: 'Cardo', serif;
+    height: 100%;
+}
+.section-2{
+    background-color: antiquewhite;
+}
+
+form{
+    position: absolute;
+    width: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
+.register-text{
+    margin-top: 2px;
+}
+input{
+    margin-bottom: 20px;
+    background-color: transparent !important;
+    border: 1px solid antiquewhite !important;
+}
+.card{
+    height:480px;
+}
+.card-text,.card-title,.card-body{
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+}
